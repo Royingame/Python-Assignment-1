@@ -1,2 +1,2 @@
-# Python-Assignment-1
+# Python-Assignments
 Python Assignment for MLDP Course at ineuron
